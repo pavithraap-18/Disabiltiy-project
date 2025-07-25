@@ -1,1 +1,2 @@
 # Disabiltiy-project
+I worked on a Sustainable Development project as a data analyst and machine learning programmer, where I developed a predictive model to estimate employment participation rates among individuals with hearing disabilities across Indian states. Using demographic and labor force data, the model provided valuable insights into regional employment disparities and highlighted areas needing policy attention.
